@@ -335,7 +335,7 @@
         </div>
 
     </div>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCrNsC0ibyMxAcw5CISGDDwKX_pUKH6gCA&callback=initialize" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=&callback=initialize" async defer></script>
     <!-- Jquery JS-->
     <script src="{{URL::asset('vendor/jquery-3.2.1.min.js')}}"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
